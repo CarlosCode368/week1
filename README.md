@@ -1,1 +1,1 @@
-day2wwk1
+day2week1
